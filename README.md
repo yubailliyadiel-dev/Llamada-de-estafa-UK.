@@ -25,3 +25,17 @@ Te llaman desde un número falso, para que  cuando contestes intentan robarte la
 3. Denunciar la estafa a la policía .
 4. Rezar.
 
+# ¿Con qué fin se realiza la estafa?
+
+1. Buscan robar tu voz, para posteriormente suplantar tu identidad.
+2. Robar datos personales tuyos, para venderlos en la dark web.
+3. Conseguir tus contraseñas.
+4. Directamente robarte dinero.
+
+# ¿Cómo evito la estafa?
+
+1. Si sospechas de la llamada no contestes.
+2. Nunca contestes primero con un "Si" ya que podrían manipular tu voz, para hacer que digas si a cosas que no sabías.
+3. Informa a los más mayores, son los mal vulnerables ante estas estafas.
+4. Desconfía de cualquier llamada que tenga un exceso de amabilidad, pero que te presione a darle tuas datos.
+
