@@ -1,1 +1,20 @@
 # Llamada-de-estafa-UK.
+
+# ¿En qué consiste la estafa?
+
+Te llaman desde un número falso, para que  cuando contestes intentan robarte la voz y acceder a tus datos, algunas llamadas simplemente te cuelgan cuando contestas, para registrarte como número activo y vulnerable.
+
+# ¿Cómo consiguen tu número?
+
+1. Un sistema teclea miles de números al azar.
+2. Un robot llama a bastantes de esos números en poco tiempo.
+3. Cuando hakean a un sitio web o app acceden a los datos de registro y filtran los tuyos.
+4. También lo pueden obtener mediante registros a sorteos que no existen.
+
+# ¿Cómo funciona la estafa?
+
+1. Se hacen pasar por alguien de confianza, un operador, familiar tuyo o conocido.
+2. Crean una urgencia falsa, para preocuparte "Su tarjeta será bloqueada" "Debe dinero al banco" ...
+3. Te ayudan a solucionarla hablándote con mucho respeto, para ganarse aún más tu confianza.
+4. Para solucionarlo te van pidiendo datos, hasta conseguir lo que quieren.
+
