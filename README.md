@@ -1,4 +1,4 @@
-# Llamada-de-estafa-
+# Llamada-de-estafa
 
 # ¿En qué consiste la estafa?
 
