@@ -18,3 +18,10 @@ Te llaman desde un número falso, para que  cuando contestes intentan robarte la
 3. Te ayudan a solucionarla hablándote con mucho respeto, para ganarse aún más tu confianza.
 4. Para solucionarlo te van pidiendo datos, hasta conseguir lo que quieren.
 
+# ¿Qué debo hacer si he sido estafado?
+
+1. Contactar lo antes posible con tu banco.
+2. Cambiar contraseñas.
+3. Denunciar la estafa a la policía .
+4. Rezar.
+
