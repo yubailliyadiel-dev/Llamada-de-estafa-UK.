@@ -18,6 +18,7 @@ Te llaman desde un número falso, para que  cuando contestes intentan robarte la
 3. Te ayudan a solucionarla hablándote con mucho respeto, para ganarse aún más tu confianza.
 4. Para solucionarlo te van pidiendo datos, hasta conseguir lo que quieren.
 
+
 # ¿Qué debo hacer si he sido estafado?
 
 1. Contactar lo antes posible con tu banco.
@@ -39,3 +40,4 @@ Te llaman desde un número falso, para que  cuando contestes intentan robarte la
 3. Informa a los más mayores, son los mal vulnerables ante estas estafas.
 4. Desconfía de cualquier llamada que tenga un exceso de amabilidad, pero que te presione a darle tuas datos.
 
+<img width="1024" height="1536" alt="Advertencia sobre estafas telefónicas" src="https://github.com/user-attachments/assets/1adf588d-5048-47cb-a5d8-946c1ab5b61d" />
